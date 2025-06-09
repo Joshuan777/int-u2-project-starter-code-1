@@ -1,15 +1,46 @@
 /* The code below puts the title of the website in the center */
 .title { 
     text-align: center;
+    color:black;
+    background-color:rgb(162, 58, 58);
+    font-size:75px;
 }
 
 /* The code below adds a white background-color and black text color for the body of the page. */
 body {
-    background-color: white;
+    background-color: rgb(183, 175, 175);
 }
 
 
-/* The code below adds a black background-color and white text color for each section heading. */
-.section {
-    color:black;  
+.video{
+    float:right
 }
+
+.poverty{
+    background-color:rgb(162, 58, 58);
+    font-size:30px;
+}
+h2{
+    text-align: center;
+    font-size:75px;
+}
+
+.impact{
+    background-color:rgb(162, 58, 58);
+    font-size:30px;
+}
+
+.rate{
+    background-color:rgb(162, 58, 58);
+    font-size:35px;
+}
+
+.img1{
+    float:right;
+    height:400px;
+    width:700px;
+    border-style:solid;
+    border-width:5px;
+    border-color:rgb(75, 43, 43);
+}
+
